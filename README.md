@@ -15,7 +15,7 @@
           </div>
     </div>
     <div style="text-align: left;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗓️ History </h2> <br> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗓️ Experience </h2> <br> 
         <div  align= "left" dir="auto">
             <li>
                 홍익대학교 컴퓨터공학과
