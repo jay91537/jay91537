@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 홍익대학교 컴퓨터공학과 20학번 임재현입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 주어진 환경에서 팀원들과 함께 최선의 결과를 낼 수 있습니다.👏 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
