@@ -25,7 +25,7 @@
                 인턴쉽 : 캐나다 스타트업 
                 <a href="https://www.linkedin.com/company/seons/">Seons</a>
                 - mediapipe를 이용한 농구 슈팅 동작 분석
-                <sub>(2022.10 ~ 2023.02)</sub>
+                <sub>(2023.10 ~ 2024.02)</sub>
             </li>
             <li>
                 Blaybus 실전 앱 개발 경진대회 고속버스팀 (PM, BE)
