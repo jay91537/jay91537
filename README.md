@@ -28,12 +28,6 @@
                 <sub>(2020.03 ~)</sub>
             </li>
             <li>
-                인턴쉽 : 캐나다 스타트업 
-                <a href="https://www.linkedin.com/company/seons/">Seons</a>
-                - mediapipe를 이용한 농구 슈팅 동작 분석
-                <sub>(2023.10 ~ 2024.02)</sub>
-            </li>
-            <li>
                 Blaybus 실전 앱 개발 경진대회 고속버스팀 (PM, BE)
                 <sub>(2025.01)</sub>
             </li>
@@ -41,6 +35,25 @@
                 IT 연합동아리 '코테이토' 11기 BE : 2025.03 ~ 2025.08
             </li>
         </div>
+    <div>
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💼 Carrer </h2> <br>
+        <div>
+            <li>
+                인턴쉽 : 캐나다 스타트업 
+                <a href="https://www.linkedin.com/company/seons/">Seons</a>
+                - mediapipe를 이용한 농구 슈팅 동작 분석
+                <sub>(2023.10 ~ 2024.02)</sub>
+            </li>
+            <li>
+                인턴쉽 & 정규직 : 
+                <a href="https://ddock.kr/">똑똑</a>
+                - 펀드 출자자들을 위한 서비스  
+                <a href="https://lpworks.kr/lcm001?returnUrl=JTJG">LPworks </a>
+                개발
+                <sub>(2025.03 ~ ing)</sub>
+            </li>
+        </div>
+    </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
