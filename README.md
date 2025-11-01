@@ -5,13 +5,19 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "left"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <!--<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> -->
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <br/>
+          <br/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Postgresql-3776AB?style=for-the-badge&logo=Postgresql&logoColor=white">
+          <br/>
+          <br/>
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Airflow-3776AB?style=for-the-badge&logo=Airflow&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
@@ -30,6 +36,9 @@
             <li>
                 Blaybus 실전 앱 개발 경진대회 고속버스팀 (PM, BE)
                 <sub>(2025.01)</sub>
+            </li>
+            <li>
+                IT 연합동아리 '코테이토' 11기 BE : 2025.03 ~ 2025.08
             </li>
         </div>
     </div>
