@@ -49,7 +49,7 @@
                 <a href="https://ddock.kr/">똑똑</a>
                 - 펀드 출자자들을 위한 서비스  
                 <a href="https://lpworks.kr/lcm001?returnUrl=JTJG">LPworks </a>
-                개발
+                BE 개발
                 <sub>(2025.03 ~ ing)</sub>
             </li>
         </div>
