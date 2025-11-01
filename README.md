@@ -41,16 +41,14 @@
             <li>
                 인턴쉽 : 캐나다 스타트업 
                 <a href="https://www.linkedin.com/company/seons/">Seons</a>
-                - mediapipe를 이용한 농구 슈팅 동작 분석
-                <sub>(2023.10 ~ 2024.02)</sub>
+                - mediapipe를 이용한 농구 슈팅 동작 분석 (2023.10 ~ 2024.02)
             </li>
             <li>
                 인턴쉽 & 정규직 : 
                 <a href="https://ddock.kr/">똑똑</a>
                 - 펀드 출자자들을 위한 서비스  
                 <a href="https://lpworks.kr/lcm001?returnUrl=JTJG">LPworks </a>
-                BE 개발
-                <sub>(2025.03 ~ ing)</sub>
+                BE 개발 (2025.03 ~ ing)
             </li>
         </div>
     </div>
