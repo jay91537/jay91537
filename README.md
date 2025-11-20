@@ -36,7 +36,7 @@
             </li>
         </div>
     <div>
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💼 Carrer </h2> <br>
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💼 Career </h2> <br>
         <div>
             <li>
                 인턴쉽 : 캐나다 스타트업 
